@@ -1,2 +1,2 @@
-# RL_learning
-learning RL
+### 强化学习基础学习
+#### 2023.10.07: Q-learning
